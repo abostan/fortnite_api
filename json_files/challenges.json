@@ -1,0 +1,68 @@
+{
+    "language": "en",
+    "season": 9,
+    "currentweek": 1,
+    "star": "https://fortnite-public-files.theapinetwork.com/fortnite-br-challenges-star.png",
+    "challenges": {
+        "week1": [
+            {
+                "identifier": null,
+                "challenge": "Ride the Slip Stream around Neo Tilted",
+                "total": 1,
+                "stars": 2,
+                "difficulty": "normal"
+            },
+            {
+                "identifier": null,
+                "challenge": "Visit all Sky Platforms",
+                "total": 7,
+                "stars": 5,
+                "difficulty": "normal"
+            },
+            {
+                "identifier": null,
+                "challenge": "Deal damage to an opponent within 10s after using a Shadow Bomb",
+                "total": 200,
+                "stars": 10,
+                "difficulty": "hard"
+            },
+            {
+                "identifier": null,
+                "challenge": "Pickup a Legendary Item in different matches",
+                "total": 5,
+                "stars": 5,
+                "difficulty": "normal"
+            },
+            {
+                "identifier": null,
+                "challenge": "Search chests at Lucky Landing or Loot Lake",
+                "total": 7,
+                "stars": 5,
+                "difficulty": "normal"
+            },
+            {
+                "identifier": null,
+                "challenge": "Scoped Weapon Eliminations",
+                "total": 3,
+                "stars": 10,
+                "difficulty": "hard"
+            },
+            {
+                "identifier": null,
+                "challenge": "Deal damage to opponents from at lest 2 stories above",
+                "total": 300,
+                "stars": 3,
+                "difficulty": "normal"
+            }
+        ],
+        "week2": [],
+        "week3": [],
+        "week4": [],
+        "week5": [],
+        "week6": [],
+        "week7": [],
+        "week8": [],
+        "week9": [],
+        "week10": []
+    }
+}

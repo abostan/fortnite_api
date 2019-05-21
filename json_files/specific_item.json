@@ -1,0 +1,46 @@
+{
+    "identifier": "61ea3e9-8438e42-f53d351-e53a5ce",
+    "name": "Leviathan",
+    "description": "Leviathan outfit, Fish Tank back bling, Planetary Probe glider, and Global Axe pickaxe.",
+    "cost": 3740,
+    "type": "bundle",
+    "rarity": "legendary",
+    "upcoming": 0,
+    "lastupdate": 1554300788,
+    "obtained": "3740",
+    "obtained_type": "vbucks",
+    "todaystore": 0,
+    "images": {
+        "transparent": "https://fortnite-public-files.theapinetwork.com/bundle/f1fd20e12c5c709780ea5602d9d9df0f.png",
+        "background": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce.png",
+        "information": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce/item.png",
+        "featured": {
+            "transparent": null
+        }
+    },
+    "ratings": {
+        "avgStars": 4.19,
+        "totalPoints": 1315,
+        "numberVotes": 314
+    },
+    "set": {
+        "name": null,
+        "entries": []
+    },
+    "bundle": {
+        "entries": []
+    },
+    "occurrences": {
+        "first": "11-12-18",
+        "last": "11-12-18",
+        "occurrences": 1,
+        "entries": [
+            {
+                "date": "11-12-18",
+                "cost": 3740,
+                "featured": 1
+            }
+        ]
+    },
+    "youtube": null
+}

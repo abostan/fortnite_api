@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Fortnite API.com &middot; Free API for Fortnite!</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://fortniteapi.com/assets/css/style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+		integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<link rel="shortcut icon" href="https://fortniteapi.com/assets/img/favicon.ico" type="image/x-icon" />
+	<style type="text/css">
+		body,
+		html {
+			word-break: all;
+			hyphens: auto;
+		}
+
+		.container {
+			margin-top: 20px;
+		}
+
+		pre {
+			outline: 1px solid #ccc;
+			padding: 5px;
+			margin: 5px;
+		}
+
+		.string {
+			color: green;
+		}
+
+		.number {
+			color: darkorange;
+		}
+
+		.boolean {
+			color: blue;
+		}
+
+		.null {
+			color: magenta;
+		}
+
+		.key {
+			color: red;
+		}
+
+		.btn {
+			margin: 5px 0px;
+		}
+
+		.transparentimage {
+			background: url(https://cache.wenters.com/cache/6b60ff12d548e01d9a0bdf4fd23a134e.png)
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Free Fortnite API</h1>
+			</div>
+		</div>
+
+	
+		<div class="row">
+			<div class="col-md-12">
+				<h5>Documentation & Endpoints</h5>
+				<p>
+					Our main endpoint is <b>https://fortnite-public-api.theapinetwork.com/</b>. This will handle all
+					your requests and will connect with the nearest datacenter using a loadbalancer. Our image endpoint
+					(using a fast CDN) is <b>https://fortnite-public-files.theapinetwork.com/</b>.
+				</p>
+				<hr />
+				<h5>Daily store.</h5>
+				<p>
+					https://fortnite-public-api.theapinetwork.com/prod09/store/get?language=<b>{language}</b> &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/store/get" data-query=""
+						data-language="en,de" class="btn btn-primary btn-sm">Run</button>
+					<br />
+					<a href="https://fortniteapi.com/store">A list of all items in the current store</a>
+				</p>
+				<h5>Upcoming items.</h5>
+				<p>
+					https://fortnite-public-api.theapinetwork.com/prod09/upcoming/get &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/upcoming/get" data-query=""
+						class="btn btn-primary btn-sm">Run</button>
+					<br />
+					<a href="https://fortniteapi.com/upcoming">A list of all upcoming items</a>
+				</p>
+				<h5>All items.</h5>
+				<p>
+					https://fortnite-public-api.theapinetwork.com/prod09/items/list &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/items/list" data-query=""
+						class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<h5>Specific item.</h5>
+				<p>
+					https://fortnite-public-api.theapinetwork.com/prod09/item/get?ids=61ea3e9-8438e42-f53d351-e53a5ce
+					&mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/item/get?ids=61ea3e9-8438e42-f53d351-e53a5ce"
+						data-query="" class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<h5>Popular items based on our rating API.</h5>
+				<p>
+					https://fortnite-public-api.theapinetwork.com/prod09/items/popular &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/items/popular" data-query=""
+						class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<hr />
+				<h5>Get user ID.</h5>
+				<p>
+					https://fortnite-public-api.theapinetwork.com/prod09/users/id?username=Ninja &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/users/id?username=Ninja"
+						data-query="" class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<h5>Get user stats.</h5>
+				<p>
+					HTTP endpoint:
+					https://fortnite-public-api.theapinetwork.com/prod09/users/public/br_stats_v2?user_id=4735ce9132924caf8a5b17789b40f79c
+					&mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/users/public/br_stats_v2?user_id=4735ce9132924caf8a5b17789b40f79c"
+						data-query="" class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<h5>Get user matches (from our cache).</h5>
+				<p>
+					HTTP endpoint:
+					https://fortnite-public-api.theapinetwork.com/prod09/users/public/matches_v2?user_id=4735ce9132924caf8a5b17789b40f79c
+					&mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/users/public/matches_v2?user_id=4735ce9132924caf8a5b17789b40f79c"
+						data-query="" class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<hr />
+				<h5>Get challenges.</h5>
+				<p>
+					HTTP endpoint: https://fortnite-public-api.theapinetwork.com/prod09/challenges/get?season=current
+					&mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/challenges/get?season=current"
+						data-query="" class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<hr />
+				<h5>Weapons</h5>
+				<p>
+					HTTP endpoint: https://fortnite-public-api.theapinetwork.com/prod09/weapons/get &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/weapons/get" data-query=""
+						class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<hr />
+				<h5>Get in-game BR news.</h5>
+				<p>
+					HTTP endpoint:
+					https://fortnite-public-api.theapinetwork.com/prod09/br_motd/get?language=<b>{language}</b> &mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/br_motd/get" data-query=""
+						data-language="en,de,fr,zh,it,ja,es" class="btn btn-primary btn-sm">Run</button>
+				</p>
+				<hr />
+				<h5>Server status.</h5>
+				<p>
+					HTTP endpoint: https://fortnite-public-api.theapinetwork.com/prod09/status/fortnite_server_status
+					&mdash;
+					<button data-run="store"
+						data-endpoint="https://fortnite-public-api.theapinetwork.com/prod09/status/fortnite_server_status"
+						data-query="" class="btn btn-primary btn-sm">Run</button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div style="height: 50px;"></div>
+	<div class="modal fade" tabindex="-1" role="dialog" id="myModal">
+		<div class="modal-dialog modal-xl" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Try it out :)!</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body" id="modal_body">
+					<form action="javascript:explode();">
+						<div class="form-group">
+							<b>Endpoint</b>
+							<div class="row">
+								<div class="col-md-9">
+									<input type="url" disabled="" name="endpoint" value="" class="form-control">
+								</div>
+								<div class="col-md-3">
+									<input type="submit" class="btn btn-primary btn-block" value="Run!">
+								</div>
+							</div>
+						</div>
+						<div class="form-group" id="languageSelector" style="display:none;">
+							<b>Language</b>
+							<select class="form-control" name="language" onchange="changeUrlLanguage(this.value);">
+							</select>
+						</div>
+					</form>
+					<div class="response-time"></div>
+					<div class="lift-off">
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script type="text/javascript" src="https://accounts.wenters.com/assets/js/jquery-3.1.1.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		var baseUrl = '';
+		$("button[data-run]").click(function () {
+			$("#myModal").modal('show');
+
+			$("#languageSelector").hide();
+			$("select[name=language]").html('');
+			$(".response-time").html('');
+
+			$(".lift-off").html('Press \'Run!\' to make the request!');
+
+			$("input[name=endpoint]").val($(this).data('endpoint'));
+			baseUrl = $(this).data('endpoint');
+
+			var language = $(this).data('language');
+
+			if (language.length > 0) {
+				var a = language.split(","),
+					i;
+
+				$("#languageSelector").show();
+
+				for (i = 0; i < a.length; i++) {
+					var value = a[i];
+
+					$("select[name=language]").append('<option value="' + value + '">' + value + '</option>');
+				}
+			}
+		});
+
+		function changeUrlLanguage(value) {
+			$("input[name=endpoint]").val(baseUrl + '?language=' + value);
+		}
+
+		function explode() {
+			var url = $("input[name=endpoint]").val();
+
+			$.ajax({
+				type: "GET",
+				url: url,
+				start_time: new Date().getTime(),
+				beforeSend: function () {
+					$(".response-time").html('');
+					$(".lift-off").html('<div class="alert alert-danger">Receiving data...</div>');
+				},
+				success: function (result) {
+					let request_time = new Date().getTime() - this.start_time;
+					$(".response-time").html('Time taken: ' + request_time + 'ms');
+
+					$(".lift-off").html('<pre>' + syntaxHighlight(result) + '</pre>');
+				},
+				error: function (result) {
+					$(".lift-off").html('<div class="alert alert-danger">Something wen\'t wrong.</div>');
+				}
+			});
+		}
+
+		function syntaxHighlight(json) {
+			if (typeof json != 'string') {
+				json = JSON.stringify(json, undefined, 2);
+			}
+
+			json = json.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+			return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
+				var cls = 'number';
+				if (/^"/.test(match)) {
+					if (/:$/.test(match)) {
+						cls = 'key';
+					} else {
+						cls = 'string';
+					}
+				} else if (/true|false/.test(match)) {
+					cls = 'boolean';
+				} else if (/null/.test(match)) {
+					cls = 'null';
+				}
+				return '<span class="' + cls + '">' + match + '</span>';
+			});
+		}
+
+	</script>
+</body>
+
+</html>

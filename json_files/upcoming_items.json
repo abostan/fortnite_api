@@ -1,0 +1,303 @@
+{
+    "rows": 11,
+    "vbucks": "https://fortnite-public-files.theapinetwork.com/fortnite-vbucks-icon.png",
+    "items": [
+        {
+            "itemid": "ffb8dae-24bc2c3-9741378-dd90ded",
+            "name": "Bomber Bag",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/backpack/5884a1afe53cd064687e6fdb33fb55c2.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/backpack/5884a1afe53cd064687e6fdb33fb55c2.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/ffb8dae-24bc2c3-9741378-dd90ded.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/ffb8dae-24bc2c3-9741378-dd90ded/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "backpack",
+                "type": "backpack",
+                "rarity": "legendary",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 3.97,
+                "totalPoints": 250,
+                "numberVotes": 63
+            }
+        },
+        {
+            "itemid": "1c08d5a-213185c-30c32be-d9baf04",
+            "name": "Gemini",
+            "description": "Prepare for interstellar hop.",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/64f95a7e9e08705654bad7866c628ebb.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/64f95a7e9e08705654bad7866c628ebb.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/1c08d5a-213185c-30c32be-d9baf04.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/1c08d5a-213185c-30c32be-d9baf04/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/1c08d5a-213185c-30c32be-d9baf04.png"
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "epic",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 4.25,
+                "totalPoints": 3960,
+                "numberVotes": 931
+            }
+        },
+        {
+            "itemid": "b3acb35-ba516fb-cb3ce92-0f226da",
+            "name": "Cryo Hops",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/backpack/45cf1e875692206cc93af9d73b8050b1.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/backpack/45cf1e875692206cc93af9d73b8050b1.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/b3acb35-ba516fb-cb3ce92-0f226da.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/b3acb35-ba516fb-cb3ce92-0f226da/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "backpack",
+                "type": "backpack",
+                "rarity": "epic",
+                "obtained": "???",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.23,
+                "totalPoints": 892,
+                "numberVotes": 211
+            }
+        },
+        {
+            "itemid": "9c39f48-85d7527-2378433-b2c317b",
+            "name": "Plasma Carrot",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/e88f9864a894f778bff4afc34e8bd5f2.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/e88f9864a894f778bff4afc34e8bd5f2.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/9c39f48-85d7527-2378433-b2c317b.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/9c39f48-85d7527-2378433-b2c317b/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "epic",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 4.56,
+                "totalPoints": 1080,
+                "numberVotes": 237
+            }
+        },
+        {
+            "itemid": "39fcfcb-6b62072-f3fc989-2db32f3",
+            "name": "Phrenzy",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/backpack/8f3ff63705a8928965a777256bb47e50.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/backpack/8f3ff63705a8928965a777256bb47e50.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/39fcfcb-6b62072-f3fc989-2db32f3.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/39fcfcb-6b62072-f3fc989-2db32f3/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "backpack",
+                "type": "backpack",
+                "rarity": "epic",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 3.47,
+                "totalPoints": 59,
+                "numberVotes": 17
+            }
+        },
+        {
+            "itemid": "bc586b2-5183bae-da05a0a-411ab82",
+            "name": "CnXn",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/backpack/8b09d6e095db26928cc645b02ffa3309.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/backpack/8b09d6e095db26928cc645b02ffa3309.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/bc586b2-5183bae-da05a0a-411ab82.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/bc586b2-5183bae-da05a0a-411ab82/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "backpack",
+                "type": "backpack",
+                "rarity": "epic",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 4.25,
+                "totalPoints": 68,
+                "numberVotes": 16
+            }
+        },
+        {
+            "itemid": "e36b7f3-cf1936d-b828a22-df79feb",
+            "name": "Rockbreaker ",
+            "description": "You know the drill.",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/dd11fd182f1727aa47f9af889c808d57.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/dd11fd182f1727aa47f9af889c808d57.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/e36b7f3-cf1936d-b828a22-df79feb.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/e36b7f3-cf1936d-b828a22-df79feb/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/e36b7f3-cf1936d-b828a22-df79feb.png"
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "rare",
+                "obtained": "???",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 3.98,
+                "totalPoints": 263,
+                "numberVotes": 66
+            }
+        },
+        {
+            "itemid": "7540df8-0e92eae-60e1265-ce6afe0",
+            "name": "Longhorn",
+            "description": "Corral the competition",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/fb89e8588d3d0d3bb9ad0d7ee7e59ccc.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/fb89e8588d3d0d3bb9ad0d7ee7e59ccc.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/7540df8-0e92eae-60e1265-ce6afe0.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/7540df8-0e92eae-60e1265-ce6afe0/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "rare",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 3.85,
+                "totalPoints": 1416,
+                "numberVotes": 368
+            }
+        },
+        {
+            "itemid": "daae2a3-3376277-36d8569-16550ef",
+            "name": "Helium",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/glider/a03167bff87cf797e53bb916829c1cdc.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/glider/a03167bff87cf797e53bb916829c1cdc.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/daae2a3-3376277-36d8569-16550ef.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/daae2a3-3376277-36d8569-16550ef/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "glider",
+                "type": "glider",
+                "rarity": "uncommon",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 3.45,
+                "totalPoints": 407,
+                "numberVotes": 118
+            }
+        },
+        {
+            "itemid": "599343e-4839a51-29cecd0-33decae",
+            "name": "Rush",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/glider/31ad98184e96214e085bccc4d0d5684a.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/glider/31ad98184e96214e085bccc4d0d5684a.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/599343e-4839a51-29cecd0-33decae.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/599343e-4839a51-29cecd0-33decae/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "glider",
+                "type": "glider",
+                "rarity": "uncommon",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 3.91,
+                "totalPoints": 754,
+                "numberVotes": 193
+            }
+        },
+        {
+            "itemid": "c031b02-90a41b3-10192b5-a010a64",
+            "name": "Steadfast",
+            "description": "",
+            "cost": "???",
+            "item": {
+                "image": "https://fortnite-public-files.theapinetwork.com/glider/56f973575d2ba77c4cf74684bad17775.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/glider/56f973575d2ba77c4cf74684bad17775.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/c031b02-90a41b3-10192b5-a010a64.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/c031b02-90a41b3-10192b5-a010a64/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "glider",
+                "type": "glider",
+                "rarity": "uncommon",
+                "obtained": "???",
+                "obtained_type": "none"
+            },
+            "ratings": {
+                "avgStars": 3.8,
+                "totalPoints": 532,
+                "numberVotes": 140
+            }
+        }
+    ]
+}

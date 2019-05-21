@@ -1,0 +1,16 @@
+{
+  "name": "fortnite_test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint '**/*.js' && ./node_modules/karma/bin/karma start --single-run",
+    "start": "superstatic"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "superstatic": "^6.0.4"
+  }
+}

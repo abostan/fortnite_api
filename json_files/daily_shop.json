@@ -1,0 +1,550 @@
+{
+    "vbucks": "https://fortnite-public-files.theapinetwork.com/fortnite-vbucks-icon.png",
+    "date_layout": "day-month-year",
+    "date": "21-05-19",
+    "lastupdate": 0,
+    "language": "en",
+    "rows": 18,
+    "items": [
+        {
+            "itemid": "da43ee0-f072498-4a74028-b0c65be",
+            "name": "Tricera Ops",
+            "cost": "2000",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Tricera Ops",
+                "description": "Sink your teeth into victory.",
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/d679d7f60740db542d8c81b981762cad.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/d679d7f60740db542d8c81b981762cad.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/da43ee0-f072498-4a74028-b0c65be.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/da43ee0-f072498-4a74028-b0c65be/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/da43ee0-f072498-4a74028-b0c65be.png"
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "legendary",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.14,
+                "totalPoints": 2202,
+                "numberVotes": 532
+            }
+        },
+        {
+            "itemid": "07281f7-ee11071-8f145b9-bd81a3a",
+            "name": "Maven",
+            "cost": "1200",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Maven",
+                "description": "Victory is the common denominator.",
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/3fa44f2252ff6eec80b04499c0940bb3.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/3fa44f2252ff6eec80b04499c0940bb3.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/07281f7-ee11071-8f145b9-bd81a3a.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/07281f7-ee11071-8f145b9-bd81a3a/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/07281f7-ee11071-8f145b9-bd81a3a.png"
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "rare",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.3,
+                "totalPoints": 1488,
+                "numberVotes": 346
+            }
+        },
+        {
+            "itemid": "67b021b-16ce420-12579e4-a8d8b7f",
+            "name": "T-Square",
+            "cost": "500",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "T-Square",
+                "description": "Measure twice, chop once.",
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/961f5fd1167ab8472ee62e7eae02ae10.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/961f5fd1167ab8472ee62e7eae02ae10.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/67b021b-16ce420-12579e4-a8d8b7f.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/67b021b-16ce420-12579e4-a8d8b7f/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "uncommon",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 3.5,
+                "totalPoints": 396,
+                "numberVotes": 113
+            }
+        },
+        {
+            "itemid": "d874dce-fec64ba-2f00634-0f1a52f",
+            "name": "Simple Sledge",
+            "cost": "500",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Simple Sledge",
+                "description": "A professional&apos;s tool of choice. ",
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/9710cf1d606e7d8282d6399c2738d889.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/9710cf1d606e7d8282d6399c2738d889.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/d874dce-fec64ba-2f00634-0f1a52f.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/d874dce-fec64ba-2f00634-0f1a52f/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/d874dce-fec64ba-2f00634-0f1a52f.png"
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "uncommon",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.26,
+                "totalPoints": 648,
+                "numberVotes": 152
+            }
+        },
+        {
+            "itemid": "dfd1be1-c5bd5d9-83ae250-653baad",
+            "name": "Be Seeing You",
+            "cost": "200",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Be Seeing You",
+                "description": "Not if I see you first.",
+                "image": "https://fortnite-public-files.theapinetwork.com/emote/797d6090679174e8081be045b19b1773.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/emote/797d6090679174e8081be045b19b1773.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/dfd1be1-c5bd5d9-83ae250-653baad.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/dfd1be1-c5bd5d9-83ae250-653baad/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/dfd1be1-c5bd5d9-83ae250-653baad.png"
+                    }
+                },
+                "captial": "emote",
+                "type": "emote",
+                "rarity": "uncommon",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 3.76,
+                "totalPoints": 530,
+                "numberVotes": 141
+            }
+        },
+        {
+            "itemid": "cb39786-435451c-959b162-7bc6089",
+            "name": "Rex",
+            "cost": "2000",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Rex",
+                "description": "Hunting the competition to extinction.",
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/a23b9de39998cccf83ab07381e377cf5.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/a23b9de39998cccf83ab07381e377cf5.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/cb39786-435451c-959b162-7bc6089.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/cb39786-435451c-959b162-7bc6089/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/cb39786-435451c-959b162-7bc6089.png"
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "legendary",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.11,
+                "totalPoints": 2318,
+                "numberVotes": 564
+            }
+        },
+        {
+            "itemid": "0a519e3-ef622e2-93cf6d4-2cf6474",
+            "name": "Bulletproof",
+            "cost": "200",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Bulletproof",
+                "description": "Brush it off.",
+                "image": "https://fortnite-public-files.theapinetwork.com/emote/a07f9d7fee94e684094c2c2e5918d1a0.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/emote/a07f9d7fee94e684094c2c2e5918d1a0.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/0a519e3-ef622e2-93cf6d4-2cf6474.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/0a519e3-ef622e2-93cf6d4-2cf6474/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/0a519e3-ef622e2-93cf6d4-2cf6474.png"
+                    }
+                },
+                "captial": "emote",
+                "type": "emote",
+                "rarity": "uncommon",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.06,
+                "totalPoints": 829,
+                "numberVotes": 204
+            }
+        },
+        {
+            "itemid": "37ee2c2-d45e776-2dfcdac-3ae94c2",
+            "name": "Bitemark",
+            "cost": "1200",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Bitemark",
+                "description": "Take a bite out of the competition.",
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/d742b1ac3abe3ead82a4f692a0011904.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/d742b1ac3abe3ead82a4f692a0011904.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/37ee2c2-d45e776-2dfcdac-3ae94c2.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/37ee2c2-d45e776-2dfcdac-3ae94c2/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/37ee2c2-d45e776-2dfcdac-3ae94c2.png"
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "epic",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.01,
+                "totalPoints": 790,
+                "numberVotes": 197
+            }
+        },
+        {
+            "itemid": "6f6501a-895585f-2b54ae2-50cac4b",
+            "name": "Pterodactyl",
+            "cost": "1200",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Pterodactyl",
+                "description": "Saur into battle.",
+                "image": "https://fortnite-public-files.theapinetwork.com/glider/776dd0d9a329990409adbf3d84bb343c.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/glider/776dd0d9a329990409adbf3d84bb343c.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/6f6501a-895585f-2b54ae2-50cac4b.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/6f6501a-895585f-2b54ae2-50cac4b/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/6f6501a-895585f-2b54ae2-50cac4b.png"
+                    }
+                },
+                "captial": "glider",
+                "type": "glider",
+                "rarity": "epic",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.17,
+                "totalPoints": 475,
+                "numberVotes": 114
+            }
+        },
+        {
+            "itemid": "8dbc349-148ae41-ba6761a-a943402",
+            "name": "Paper Plane",
+            "cost": "800",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Paper Plane",
+                "description": "Finely folded flyer.",
+                "image": "https://fortnite-public-files.theapinetwork.com/glider/cfb21d174a2370820e1d2f37b7e42646.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/glider/cfb21d174a2370820e1d2f37b7e42646.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/8dbc349-148ae41-ba6761a-a943402.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/8dbc349-148ae41-ba6761a-a943402/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "glider",
+                "type": "glider",
+                "rarity": "rare",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.36,
+                "totalPoints": 750,
+                "numberVotes": 172
+            }
+        },
+        {
+            "itemid": "3991b07-1e46526-09e4de4-3cff215",
+            "name": "John Wick",
+            "cost": "2000",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "John Wick",
+                "description": "Every action has consequences.",
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/f4a12bb2352be3fcd4ef9d52b6396d74.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/f4a12bb2352be3fcd4ef9d52b6396d74.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/3991b07-1e46526-09e4de4-3cff215.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/3991b07-1e46526-09e4de4-3cff215/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/3991b07-1e46526-09e4de4-3cff215.png"
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "legendary",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.4,
+                "totalPoints": 8851,
+                "numberVotes": 2013
+            }
+        },
+        {
+            "itemid": "f84ccd8-1408e18-b0eebda-ea8c321",
+            "name": "Assassin",
+            "cost": "300",
+            "featured": 1,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Assassin",
+                "description": "Show your style.",
+                "image": "https://fortnite-public-files.theapinetwork.com/wrap/f83637570316ccce6daef15979c7e803.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/wrap/f83637570316ccce6daef15979c7e803.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/f84ccd8-1408e18-b0eebda-ea8c321.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/f84ccd8-1408e18-b0eebda-ea8c321/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/f84ccd8-1408e18-b0eebda-ea8c321.png"
+                    }
+                },
+                "captial": "wrap",
+                "type": "wrap",
+                "rarity": "uncommon",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 3.63,
+                "totalPoints": 577,
+                "numberVotes": 159
+            }
+        },
+        {
+            "itemid": "b1819ee-1d8c0e7-a162ff3-ac8368b",
+            "name": "Sash Sergeant",
+            "cost": "1200",
+            "featured": 0,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Sash Sergeant",
+                "description": "Set up camp and start a firefight.",
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/ace592ffc0081bec499a1d7a0e30b4ea.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/ace592ffc0081bec499a1d7a0e30b4ea.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/b1819ee-1d8c0e7-a162ff3-ac8368b.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/b1819ee-1d8c0e7-a162ff3-ac8368b/item.png",
+                    "featured": {
+                        "transparent": "https://fortnite-public-files.theapinetwork.com/featured/b1819ee-1d8c0e7-a162ff3-ac8368b.png"
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "rare",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 3.83,
+                "totalPoints": 697,
+                "numberVotes": 182
+            }
+        },
+        {
+            "itemid": "faafdc1-6d061b6-fd4ba86-88fb926",
+            "name": "Gold Digger",
+            "cost": "800",
+            "featured": 0,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Gold Digger",
+                "description": "",
+                "image": "https://fortnite-public-files.theapinetwork.com/pickaxe/bb8f1ce837fe2ba92ff77de6af5410f4.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/bb8f1ce837fe2ba92ff77de6af5410f4.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/faafdc1-6d061b6-fd4ba86-88fb926.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/faafdc1-6d061b6-fd4ba86-88fb926/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "pickaxe",
+                "type": "pickaxe",
+                "rarity": "rare",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.1,
+                "totalPoints": 672,
+                "numberVotes": 164
+            }
+        },
+        {
+            "itemid": "b02b055-56e719f-4dd1cda-2b0ed40",
+            "name": "Drop The Bass",
+            "cost": "800",
+            "featured": 0,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Drop The Bass",
+                "description": "",
+                "image": "https://fortnite-public-files.theapinetwork.com/emote/89165daea937aed870cef9a1c55e1029.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/emote/89165daea937aed870cef9a1c55e1029.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/b02b055-56e719f-4dd1cda-2b0ed40.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/b02b055-56e719f-4dd1cda-2b0ed40/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "emote",
+                "type": "emote",
+                "rarity": "epic",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.29,
+                "totalPoints": 913,
+                "numberVotes": 213
+            }
+        },
+        {
+            "itemid": "cab199d-b326395-0c1a1d8-e1cf251",
+            "name": "Infinite Dab",
+            "cost": "500",
+            "featured": 0,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Infinite Dab",
+                "description": "",
+                "image": "https://fortnite-public-files.theapinetwork.com/emote/67fd843a12723036bdcd3a0eebdd2e92.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/emote/67fd843a12723036bdcd3a0eebdd2e92.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/cab199d-b326395-0c1a1d8-e1cf251.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/cab199d-b326395-0c1a1d8-e1cf251/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "emote",
+                "type": "emote",
+                "rarity": "rare",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.13,
+                "totalPoints": 946,
+                "numberVotes": 229
+            }
+        },
+        {
+            "itemid": "512f3f3-655766f-3ea6758-83a2a11",
+            "name": "Sunflower",
+            "cost": "800",
+            "featured": 0,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Sunflower",
+                "description": "",
+                "image": "https://fortnite-public-files.theapinetwork.com/outfit/835bc4780402fa60f25aa83c27dd6b1d.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/835bc4780402fa60f25aa83c27dd6b1d.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/512f3f3-655766f-3ea6758-83a2a11.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/512f3f3-655766f-3ea6758-83a2a11/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "outfit",
+                "type": "outfit",
+                "rarity": "uncommon",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 3.6,
+                "totalPoints": 507,
+                "numberVotes": 141
+            }
+        },
+        {
+            "itemid": "1c62c5f-6904274-53aaf6c-0cb019d",
+            "name": "Coaxial Copter",
+            "cost": "1200",
+            "featured": 0,
+            "refundable": 1,
+            "lastupdate": 1558396803,
+            "item": {
+                "name": "Coaxial Copter",
+                "description": "Dual-rotor tactical copter.",
+                "image": "https://fortnite-public-files.theapinetwork.com/glider/14df056ce7e09f9e83ba91b9262beab1.png",
+                "images": {
+                    "transparent": "https://fortnite-public-files.theapinetwork.com/glider/14df056ce7e09f9e83ba91b9262beab1.png",
+                    "background": "https://fortnite-public-files.theapinetwork.com/image/1c62c5f-6904274-53aaf6c-0cb019d.png",
+                    "information": "https://fortnite-public-files.theapinetwork.com/image/1c62c5f-6904274-53aaf6c-0cb019d/item.png",
+                    "featured": {
+                        "transparent": null
+                    }
+                },
+                "captial": "glider",
+                "type": "glider",
+                "rarity": "epic",
+                "obtained_type": "vbucks"
+            },
+            "ratings": {
+                "avgStars": 4.3,
+                "totalPoints": 1248,
+                "numberVotes": 290
+            }
+        }
+    ]
+}
