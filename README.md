@@ -1,5 +1,8 @@
 # fortnite_api
 
+## Demo
+[https://abostan.github.io/fortnite_api/](https://abostan.github.io/fortnite_api/)
+
 
 ## Installation
 
