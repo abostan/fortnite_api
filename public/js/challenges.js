@@ -92,23 +92,19 @@
     }
 
     const displayChallengeItems = (week, star) => {
-        $('#challenge-container').empty().append(
+        $('#challenge-container').empty().append($('<ul></ul>').addClass('list-group').append(
             Object.entries(week).map(entry => {
                 return challengeElement(entry[1], star)
             })
-        )
+        ))
     }
 
     const challengeElement = (entry, star) => {
-        return $('<div></div>').addClass('challenge my-2').append(
-            $('<span></span>').text(entry.challenge)
-        ).append($('<br>')).append(
-            $('<span></span>').text(`0 / ${entry.total} - ${entry.stars}`)
-        ).append(
-            $('<img/>').attr({
-                src: star,
-                height: 25
-            }).addClass('mb-1 ml-2')
+        return $('<li></li>').addClass('list-group-item').text(entry.challenge).append($('<br>')).append(
+            $('<div></div>').addClass('row')
+            .append($('<div></div>').addClass('col').text(`0 / ${entry.total}`))
+            .append($('<div></div>').addClass('col-6').text('Difficulty: ').append($('<span></span>').addClass('badge badge-info').text(`${entry.difficulty}`)))
+            .append($('<div></div>').addClass('col align-middle').text(`${entry.stars} `).append($('<img/>').addClass('align-middle').attr({src: star, height: 20})))
         )
     }
 

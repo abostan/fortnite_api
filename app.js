@@ -41,7 +41,7 @@
         .then(response => response.json())
 
     const searchAllItems = params => query('items/list', params)
-    const searchNews = params => query('br_motd/get?language=en', params)
+    const searchNews = params => query('br_motd/get', params)
     const searchChallenges = params => query('challenges/get', params)
     const searchDailyShop = params => query('store/get', params)
     const searchSpecificItem = params => query('item/get', params)

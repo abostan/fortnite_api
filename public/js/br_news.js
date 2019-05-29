@@ -22,13 +22,13 @@
     )
 
     const brNewsElement = (element) => {
-        return $('<div></div>').addClass('card shadow p-3 mb-5 bg-white').append($('<a></a>').text(element.name).attr({
+        return $('<div></div>').addClass('col-6 shadow p-3 mb-5 bg-white').append($('<div></div>').addClass('card-container').append($('<a></a>').attr({
             href: element.image,
             alt: element.title
-        })).append($('<img/>').addClass('card-img-top').attr({
+        }).append($('<img/>').addClass('card-img-top').attr({
             src: element.image,
             alt: element.title
-        }).width(512)).append($('<div></div>').addClass('card-body').append($('<div></div>').addClass('text-wrap').append($('<h5></h5>').addClass('card-title text-primary').text(element.title)).append($('<p></p>').text(element.body))));
+        }))).append($('<div></div>').addClass('card-body').append($('<div></div>').append($('<h5></h5>').addClass('card-title text-primary').text(element.title)).append($('<p></p>').text(element.body).addClass('text-justify')).append($('<span></span>').text(element.meta.adSpace).addClass('badge badge-success')))));
     }
 
     const init = () => {
