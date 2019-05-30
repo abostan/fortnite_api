@@ -100,12 +100,15 @@
     }
 
     const challengeElement = (entry, star) => {
-        return $('<li></li>').addClass('list-group-item').text(entry.challenge).append($('<br>')).append(
-            $('<div></div>').addClass('row')
-            .append($('<div></div>').addClass('col').text(`0 / ${entry.total}`))
-            .append($('<div></div>').addClass('col-6').text('Difficulty: ').append($('<span></span>').addClass('badge badge-info').text(`${entry.difficulty}`)))
-            .append($('<div></div>').addClass('col align-middle').text(`${entry.stars} `).append($('<img/>').addClass('align-middle').attr({src: star, height: 20})))
-        )
+        return $('<li></li>').addClass('list-group-item').text(entry.challenge)
+            .append($('<br>'))
+            .append($('<div></div>').addClass('row')
+                .append($('<div></div>').addClass('col').text(`0 / ${entry.total}`))
+                .append($('<div></div>').addClass('col-6').text('Difficulty: ')
+                    .append($('<span></span>').addClass('badge badge-info').text(`${entry.difficulty}`)))
+                .append($('<div></div>').addClass('col align-middle').text(`${entry.stars} `)
+                    .append($('<img/>').addClass('align-middle').attr({ src: star, height: 20 })))
+            )
     }
 
     const init = () => {
