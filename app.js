@@ -47,7 +47,8 @@
     const searchSpecificItem = params => query('item/get', params)
     const searchUpcomingItems = params => query('upcoming/get', params)
     const searchUserID = params => query('users/id', params)  
-    const searchStats = params => query('users/public/br_stats_v2', params)
+    const searchStats_v1 = params => query('users/public/br_stats', params)
+    const searchStats_v2 = params => query('users/public/br_stats_v2', params)
 
     window.ApiService = {
         apiHost,
@@ -58,6 +59,7 @@
         searchSpecificItem,
         searchUpcomingItems,
         searchUserID,
-        searchStats
+        searchStats_v1,
+        searchStats_v2
     }
 })()
