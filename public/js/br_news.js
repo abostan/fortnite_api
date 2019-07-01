@@ -20,17 +20,28 @@
             element => { return brNewsElement(element) }
         )
     )
-    
+
 
     const brNewsElement = (element) => {
-        // return $('<div></div>').addClass('col-6 shadow p-3 mb-5 bg-white')
-        // var d = new Date(element.time);
-        // var formattedDate = d.getDate() + "-" + (d.getMonth() + 1) + "-" + d.getFullYear();
 
-        function ParseDate(input){ 
-            theDate = new Date(parseInt(input.substring(6,19)));
-            return theDate.toGMTString();
+        function toDateTime(secs) {
+            var t = new Date(1970, 0, 1); // Epoch
+            t.setSeconds(secs);
+            return t;
         }
+        var time = element.time;
+        time = toDateTime(time)
+        
+        var myDate = new Date(time);
+        var day = myDate.getDate();
+        var month = myDate.getMonth();
+        var year = myDate.getFullYear();
+
+        function pad(n) {
+            return n < 10 ? '0' + n : n
+        }
+
+        var date_news = pad(day) + "/" + pad(month + 1) + "/" + year;
 
         return $('<div></div>').addClass('card shadow p-3 mx-1 my-1 bg-white').height('80%').width('80%')
             .append($('<div></div>').addClass('card-container')
@@ -40,7 +51,7 @@
                     .append($('<div></div>')
                         .append($('<h5></h5>').addClass('card-title text-primary').text(element.title))
                         .append($('<p></p>').text(element.body).addClass('text-justify'))
-                        .append($('<p></p>').text(ParseDate(element.time)))
+                        .append($('<p></p>').text(date_news))
                         .append($('<span></span>').text(element.meta.adSpace).addClass('badge badge-success'))
                     )
                 )
