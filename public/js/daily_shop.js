@@ -22,9 +22,9 @@
     )
 
     const dailyShopElement = (element, vbucks) => {
-        return $('<div></div>').addClass('card shadow p-3 mx-1 my-1 bg-white')
+        return $('<div></div>').addClass('card shadow p-3 mx-1 my-1 bg-white').height('80%').width('30%')
             .append($('<a></a>').attr({ href: element.item.image, alt: element.name })
-                .append($('<img/>').addClass('card-img-top').attr({ src: element.item.images.background, alt: element.name }).height(300).width(300)))
+                .append($('<img/>').addClass('card-img-top').attr({ src: element.item.images.background, alt: element.name }).height('100%').width('100%')))
             .append($('<div></div>').addClass('card-body')
                 .append($('<h5></h5>').addClass('card-title').text(element.name)
                     .append($('<h6></h6>').text(element.item.description)))
